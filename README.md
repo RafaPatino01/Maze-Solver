@@ -1,5 +1,5 @@
 # Maze-Solver
-This program solves mazes  
+This program solves mazes :)  
   
 ## Example
   
